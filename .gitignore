@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/htmlWriterC03/v17
+/htmlWriterC03/x64/Debug
+/x64/Debug
